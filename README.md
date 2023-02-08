@@ -1,3 +1,5 @@
+![가계부 화면](https://user-images.githubusercontent.com/105212882/217532784-2d323f57-80d0-4f84-a3a1-0212a0f27eba.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
